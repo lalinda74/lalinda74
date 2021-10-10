@@ -31,6 +31,6 @@
   ## Projects
 | Index | Project | Tech Used |
 |:------:|:-----------------:|:------:|
-|   1  |[Personal Profile](https://github.com/hellodeborahuk/coding-notebook)| HTML, SCSS and React|
-|   2  |[Theme Builder](https://github.com/hellodeborahuk/dosha-quiz)| HTML, Styled Components and React|
+|   1  |[Personal Profile](https://github.com/lalinda74/lalinda-sampath)| HTML, SCSS and React|
+|   2  |[Theme Builder](https://github.com/lalinda74/Theme-Builder)| HTML, Styled Components and React|
 
